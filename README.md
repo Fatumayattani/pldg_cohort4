@@ -1,4 +1,4 @@
-![PLDG Cohort-4](https://img.shields.io/badge/PLDG-Cohort--4-blueviolet?style=for-the-badge)
+![PLDG Cohort-4](https://img.shields.io/badge/PLDG-Cohort--4-blue?style=for-the-badge)
 
 # 🌱 PLDG Cohort-4 Journey
 
