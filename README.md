@@ -2,7 +2,7 @@
 
 # 🌱 PLDG Cohort-4 Journey
 
-Welcome to my documentation repo for the **Public Learning Developer Group (PLDG) Cohort-4**!
+Welcome to my documentation repo for the PLDG Cohort-4**!
 
 This space is where I’ll be tracking my progress, learnings, wins (and maybe a few stumbles) as I dive into open-source contributions, community collaboration, and projects.
 
