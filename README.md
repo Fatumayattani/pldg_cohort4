@@ -4,7 +4,7 @@
 
 Welcome to my documentation repo for the **Public Learning Developer Group (PLDG) Cohort-4**!
 
-This space is where I’ll be tracking my progress, learnings, wins (and maybe a few stumbles) as I dive into open-source contributions, community collaboration, and projects like **Storacha**.
+This space is where I’ll be tracking my progress, learnings, wins (and maybe a few stumbles) as I dive into open-source contributions, community collaboration, and projects.
 
 ---
 
@@ -44,6 +44,5 @@ Feel free to follow along, give feedback, or just say hi!
 
 ---
 
-📁 _This repository is my digital garden — things will grow, evolve, and sometimes get messy, and that’s the point!_
-```
+📁 _This repository is my digital garden — things will grow, evolve, and sometimes get messy, and that’s the point!
 
