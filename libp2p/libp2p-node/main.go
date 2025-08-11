@@ -1,7 +1,6 @@
 package main
 
 import (
-	"context"
 	"fmt"
 	"log"
 	"os"
@@ -14,8 +13,8 @@ func main() {
 	// Create a basic libp2p node with Windows-friendly defaults
 	node, err := libp2p.New(
 		libp2p.ListenAddrStrings(
-			"/ip4/0.0.0.0/tcp/9000",    // TCP port 9000
-			"/ip6/::/tcp/9000",         // IPv6 support
+			"/ip4/0.0.0.0/tcp/9000", // TCP port 9000
+			"/ip6/::/tcp/9000",      // IPv6 support
 		),
 	)
 	if err != nil {
