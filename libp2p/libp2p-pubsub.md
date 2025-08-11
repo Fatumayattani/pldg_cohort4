@@ -43,7 +43,6 @@
 3. Blockchain event notifications
 
 ## Resources
-- [libp2p PubSub Docs](https://docs.libp2p.io/concepts/publish-subscribe/)
-- [Gossipsub Video Tutorial](https://youtu.be/example)
+- [libp2p PubSub Docs](https://pl-launchpad.io/curriculum/libp2p/pubsub/)
 ```
 
